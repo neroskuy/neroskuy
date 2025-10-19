@@ -1,7 +1,9 @@
+<h2 align="center">Hi 👋 Welcome To My GitHub!</h2>
+
 <p align="center">
-  <img src="https://i.giphy.com/97e6IX0kayYTK.webp" width="700" height="200" alt="Welcome GIF" />
+  <img src="https://i.giphy.com/97e6IX0kayYTK.webp" width="300" height="200" alt="Welcome GIF" />
 </p>
-<hr>
+-----------------------------------------------------------------------------------------------------
 <p align="center">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
